@@ -4,20 +4,34 @@
 ![.NET](https://img.shields.io/badge/.NET-8.0-512BD4?style=flat-square&logo=dotnet)
 ![C#](https://img.shields.io/badge/Language-C%23-239120?style=flat-square&logo=c-sharp)
 
-Welcome to **Mihro Mods**. This organization is the central development hub where I adapt iconic weapons, combat mechanics, and companion systems from legendary video game franchises into **Terraria** using **tModLoader (C# / .NET 8)**.
+Welcome to **Mihro Mods**. This organization is the central development studio where I adapt iconic fictional universes—across video games, animation, and anime—into massive **Terraria** expansions using **tModLoader (C# / .NET 8)**.
 
 ---
 
-## Project Lineup & Status
+## Studio Philosophy: Complete Universe Adaptations
 
-Each mod is designed as a focused, high-quality package prioritizing custom C# mechanics, clean architecture, and faithful pixel art:
-
-| Project | Target Class / Focus | Status | Key Mechanics |
-| :--- | :--- | :---: | :--- |
-| ** Terraria's DOOM** | Melee / Ranged | 🟢 *Active / Next* | Super Shotgun with *Meathook* grapple physics, Crucible Blade, and aggressive close-quarters combat. |
-| ** Terraria's Castlevania** | Summoner / Magic | 🟡 *Planned* | Belmont Whips (*Vampire Killer*), classic Sub-Weapons (Cross, Holy Water), and Familiar summons. |
-| ** Terraria's Star Wars** | Melee / Force Magic | 🟡 *Planned* | Custom Lightsabers with projectile deflection physics and active Force abilities. |
-| ** Terraria's Hollow Knight** | Pets / Mounts / Charms | ⏸️ *On Hold (Private)* | Hallownest companions (*Little Knight*, *The Shade*) and *The Last Stag* mount. Currently shelved. |
+Every project under **Mihro Mods** is engineered to bring the full identity of its universe into Terraria rather than isolated item packs:
+* **Worlds, Lore & Quests:** Custom regions powered by `SubworldLibrary`, faction systems, and lore-driven NPC questlines.
+* **Companions & Ecosystems:** Collectible creatures, pets, and mounts powered by custom C# state-machine AI.
+* **Signature Combat Systems:** Deep gameplay overhauls—from Champion ability kits (`Q/W/E/R`) and Velocimorph slug physics to Devil Contracts.
 
 ---
-*Developed and maintained by **[[Miguel Hernandez Rogado](https://github.com/miguel-herrog)]***
+
+## Official Project Lineup
+
+### Major Universe Expansions
+| Project | Status | Core Pillars & Mechanics |
+| :--- | :---: | :--- |
+| **Terraria's League of Legends** | 🟡 *Planned* | Explorable Runeterra regions (`SubworldLibrary`), recruitable Champion NPCs with questlines, modular `Q/W/E/R` ability kits, and mythic items/pets. |
+| **Terraria's Slugterra** | 🟡 *Planned* | Underground cavern ecosystem, collectible living Slugs & Ghoul corruptions, non-consumable Bandolier Blasters, and 100-mph Velocimorph projectile physics. |
+| **Terraria's Fallout** | 🟡 *Planned* | Post-apocalyptic Wasteland overhaul, Bottle Cap economy, Hardmode Faction wars (*Brotherhood, NCR, Legion*) triggered via Wall of Flesh, and V.A.T.S. combat. |
+
+### Focused Universe Adaptations
+| Project | Status | Core Pillars & Mechanics |
+| :--- | :---: | :--- |
+| **Terraria's Chainsaw Man** | 🟡 *Planned* | Public Safety NPCs, sacrificial Devil Contracts, *Pochita* pet, Hybrid transformations with blood-leech combat, and Devil bosses. |
+| **Terraria's Adventure Time** | 🟡 *Planned* | Land of Ooo aesthetics, *BMO* & *Prismo* NPCs, *Jake* & *Gunter* companions, iconic vanities, decorations, and Finn's complete sword collection. |
+
+---
+
+*Developed and maintained by **[Miguel Hernández Rogado](https://github.com/miguel-herrog)***
