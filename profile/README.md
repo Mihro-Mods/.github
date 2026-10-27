@@ -12,8 +12,8 @@ Welcome to **Mihro Mods**. This organization is the central development studio w
 
 Every project under **Mihro Mods** is engineered to bring the full identity of its universe into Terraria rather than isolated item packs:
 * **Worlds, Lore & Quests:** Custom regions powered by `SubworldLibrary`, faction wars, and lore-driven NPC questlines.
-* **Living Ecosystems & Taming:** Collectible creatures, dragons, and slugs powered by custom C# state-machine AI and interactive UI encyclopedias.
-* **Signature Combat Overhauls:** Deep gameplay systems—from Champion ability kits (`Q/W/E/R`) and 100-mph Velocimorph physics to sacrificial Devil Contracts.
+* **Living Ecosystems & Taming:** Collectible creatures and slugs powered by interactive UI encyclopedias.
+* **Signature Combat Overhauls:** Deep gameplay systems—from Champion ability kits.
 
 ---
 
